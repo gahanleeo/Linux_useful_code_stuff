@@ -15,3 +15,7 @@
 ```(printf "track name=\"original genes\" description=\"example for bedtools A intersect B -wa\" visibility=3 color=255,0,0 useScore=1\n#chrom\tchromStart\tchromEnd\tname\tscore\tstrand\n" && cat intersect_full_length_genes.bed)  >> custom_UCSC_track.bed```
 
 
+### Linux explain shell
+
+https://explainshell.com/
+
