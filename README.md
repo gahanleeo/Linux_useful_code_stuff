@@ -19,4 +19,6 @@
 
 https://explainshell.com/
 
-### not sure Github Desktop ###
+### Github Desktop
+
+to modify the file locally and click 'push to origin' to upload to the Github
